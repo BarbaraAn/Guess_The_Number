@@ -5,4 +5,5 @@ Windows Version
 
 ## Set-Up
 1) Clone the repository
-2) Run the .exe file
+2) Run Guess The Number.exe 
+3) Have fun!
